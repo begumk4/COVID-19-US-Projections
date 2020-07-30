@@ -1,7 +1,7 @@
 # Relating number of COVID19 cases in the US with social-distancing measures
 
 link to the Project's Repo:
-https://github.com/kvali7/SML_Final_COVID19
+https://github.com/begumk4/COVID-19-US-Projections
 
 ### Authors: Kourosh Vali, Begum Kasap
 
